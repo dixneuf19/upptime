@@ -7,7 +7,7 @@ sites:
   - name: Dixneuf19 website
     url: https://www.dixneuf19.me
   - name: Radio France Open API
-    url: $RADIO_FRANCE_API_URL_WITH_TOKEN
+    url: $SECRET_SITE
   - name: loudnaround.org
     url: https://loudnaround.org
   - name: mangococo.fr
