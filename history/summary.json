@@ -5,15 +5,15 @@
     "slug": "dixneuf19-website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 695
+    "time": 647
   },
   {
     "name": "Radio France Open API",
-    "url": "$RADIO_FRANCE_API_URL_WITH_TOKEN",
+    "url": "$SECRET_SITE",
     "slug": "radio-france-open-api",
-    "status": "down",
-    "uptime": "9.09%",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1794
   },
   {
     "name": "loudnaround.org",
@@ -21,7 +21,7 @@
     "slug": "loudnaround-org",
     "status": "up",
     "uptime": "100.00%",
-    "time": 759
+    "time": 731
   },
   {
     "name": "mangococo.fr",
@@ -29,7 +29,7 @@
     "slug": "mangococo-fr",
     "status": "up",
     "uptime": "100.00%",
-    "time": 531
+    "time": 394
   },
   {
     "name": "This Upptime website",
@@ -37,6 +37,6 @@
     "slug": "this-upptime-website",
     "status": "up",
     "uptime": "100.00%",
-    "time": 144
+    "time": 139
   }
 ]
