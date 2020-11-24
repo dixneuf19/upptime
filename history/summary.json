@@ -4,39 +4,39 @@
     "url": "https://www.dixneuf19.me",
     "slug": "dixneuf19-website",
     "status": "up",
-    "uptime": "100.00",
-    "time": 560
+    "uptime": "100.00%",
+    "time": 579
   },
   {
     "name": "Radio France Open API",
-    "url": "$RADIO_FRANCE_API_URL_WITH_TOKEN",
+    "url": "https://openapi.radiofrance.fr/v1/.well-known/apollo/server-health",
     "slug": "radio-france-open-api",
     "status": "down",
-    "uptime": "98.44",
-    "time": 1822
+    "uptime": "97.49%",
+    "time": 1753
   },
   {
     "name": "loudnaround.org",
     "url": "https://loudnaround.org",
     "slug": "loudnaround-org",
     "status": "up",
-    "uptime": "100.00",
-    "time": 677
+    "uptime": "100.00%",
+    "time": 666
   },
   {
     "name": "mangococo.fr",
     "url": "https://www.mangococo.fr/",
     "slug": "mangococo-fr",
     "status": "up",
-    "uptime": "100.00",
-    "time": 280
+    "uptime": "100.00%",
+    "time": 253
   },
   {
     "name": "This Upptime website",
     "url": "https://upptime.dixneuf19.me",
     "slug": "this-upptime-website",
     "status": "up",
-    "uptime": "100.00",
-    "time": 120
+    "uptime": "100.00%",
+    "time": 124
   }
 ]
