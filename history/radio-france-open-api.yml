@@ -1,6 +1,7 @@
-- url: $RADIO_FRANCE_API_URL_WITH_TOKEN
-- status: up
-- code: 200
-- responseTime: 3561
-- lastUpdated: 2020-11-24T23:14:21.725Z
-- startTime: 2020-08-18T20:16:00.595Z
+url: https://openapi.radiofrance.fr/v1/.well-known/apollo/server-health  
+status: down
+code: 403
+responseTime: 492
+lastUpdated: 2020-11-24T23:19:16.372Z
+startTime: Tue Aug 18 2020 20:16:00 GMT+0000 (Coordinated Universal Time)
+generator: Upptime <https://github.com/upptime/upptime>
