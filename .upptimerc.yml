@@ -2,17 +2,12 @@
 owner: dixneuf19 # Your GitHub username
 repo: upptime # Your Github repository name
 
-assignees:
-  - dixneuf19
-
 # Add your sites here
 sites:
   - name: Dixneuf19 website
     url: https://www.dixneuf19.me
   - name: Radio France Open API
-    url: https://openapi.radiofrance.fr/v1/.well-known/apollo/server-health
-    headers:
-      - "x-token: $SECRET_SITE_1"
+    url: $SECRET_SITE
   - name: loudnaround.org
     url: https://loudnaround.org
   - name: mangococo.fr
