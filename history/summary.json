@@ -3,17 +3,17 @@
     "name": "Dixneuf19 website",
     "url": "https://www.dixneuf19.me",
     "slug": "dixneuf19-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "95.62%",
+    "uptimeDay": "95.61%",
     "uptimeWeek": "95.87%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "99.72%",
-    "time": 640,
-    "timeDay": 632,
-    "timeWeek": 634,
-    "timeMonth": 640,
-    "timeYear": 640
+    "time": 641,
+    "timeDay": 636,
+    "timeWeek": 637,
+    "timeMonth": 641,
+    "timeYear": 641
   },
   {
     "name": "Radio France Open API",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "82.44%",
     "uptimeYear": "95.10%",
-    "time": 1297,
-    "timeDay": 635,
-    "timeWeek": 1284,
-    "timeMonth": 1297,
-    "timeYear": 1297
+    "time": 1255,
+    "timeDay": 529,
+    "timeWeek": 1034,
+    "timeMonth": 1255,
+    "timeYear": 1255
   },
   {
     "name": "loudnaround.org",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 676,
-    "timeDay": 679,
-    "timeWeek": 687,
-    "timeMonth": 676,
-    "timeYear": 676
+    "time": 670,
+    "timeDay": 583,
+    "timeWeek": 671,
+    "timeMonth": 670,
+    "timeYear": 670
   },
   {
     "name": "mangococo.fr",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 244,
-    "timeWeek": 231,
-    "timeMonth": 236,
-    "timeYear": 236
+    "time": 230,
+    "timeDay": 143,
+    "timeWeek": 211,
+    "timeMonth": 230,
+    "timeYear": 230
   },
   {
     "name": "This Upptime website",
@@ -74,8 +74,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 201,
-    "timeWeek": 142,
+    "timeDay": 133,
+    "timeWeek": 140,
     "timeMonth": 133,
     "timeYear": 133
   }
