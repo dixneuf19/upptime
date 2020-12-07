@@ -5,31 +5,31 @@
     "slug": "dixneuf19-website",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "21.66%",
+    "uptimeDay": "26.77%",
     "uptimeWeek": "85.08%",
     "uptimeMonth": "96.52%",
     "uptimeYear": "99.04%",
-    "time": 638,
-    "timeDay": 627,
-    "timeWeek": 631,
-    "timeMonth": 638,
-    "timeYear": 638
+    "time": 631,
+    "timeDay": 493,
+    "timeWeek": 622,
+    "timeMonth": 631,
+    "timeYear": 631
   },
   {
     "name": "Radio France Open API",
     "url": "$SECRET_SITE",
     "slug": "radio-france-open-api",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "95.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "82.44%",
-    "uptimeYear": "95.14%",
-    "time": 1255,
-    "timeDay": 529,
-    "timeWeek": 1034,
-    "timeMonth": 1255,
-    "timeYear": 1255
+    "uptimeYear": "95.15%",
+    "time": 1219,
+    "timeDay": 572,
+    "timeWeek": 1022,
+    "timeMonth": 1219,
+    "timeYear": 1219
   },
   {
     "name": "loudnaround.org",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 583,
-    "timeWeek": 671,
-    "timeMonth": 670,
-    "timeYear": 670
+    "time": 669,
+    "timeDay": 641,
+    "timeWeek": 660,
+    "timeMonth": 669,
+    "timeYear": 669
   },
   {
     "name": "mangococo.fr",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 143,
-    "timeWeek": 211,
-    "timeMonth": 230,
-    "timeYear": 230
+    "time": 232,
+    "timeDay": 251,
+    "timeWeek": 213,
+    "timeMonth": 232,
+    "timeYear": 232
   },
   {
     "name": "This Upptime website",
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 133,
-    "timeWeek": 140,
-    "timeMonth": 133,
-    "timeYear": 133
+    "time": 131,
+    "timeDay": 101,
+    "timeWeek": 132,
+    "timeMonth": 131,
+    "timeYear": 131
   }
 ]
