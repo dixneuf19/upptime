@@ -1,6 +1,7 @@
-- url: $RADIO_FRANCE_API_URL_WITH_TOKEN
-- status: up
-- code: 200
-- responseTime: 1072
-- lastUpdated: 2020-12-21T23:25:12.668Z
-- startTime: 2020-08-18T20:16:00.595Z
+url: $SECRET_SITE  
+status: up
+code: 200
+responseTime: 3264
+lastUpdated: 2020-12-22T23:20:10.231Z
+startTime: Tue Aug 18 2020 20:16:00 GMT+0000 (Coordinated Universal Time)
+generator: Upptime <https://github.com/upptime/upptime>
