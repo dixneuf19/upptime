@@ -1,7 +1,6 @@
-url: https://loudnaround.org
-status: up
-code: 200
-responseTime: 745
-lastUpdated: 2021-01-13T23:40:27.778Z
-startTime: Tue Aug 18 2020 21:16:50 GMT+0000 (Coordinated Universal Time)
-generator: Upptime <https://github.com/upptime/upptime>
+- url: https://loudnaround.org
+- status: up
+- code: 200
+- responseTime: 604
+- lastUpdated: 2021-01-13T23:48:52.523Z
+- startTime: 2020-08-18T21:16:50.655Z
