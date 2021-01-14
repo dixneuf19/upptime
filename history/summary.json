@@ -2,109 +2,41 @@
   {
     "name": "Dixneuf19 website",
     "url": "https://www.dixneuf19.me",
-    "icon": "https://favicons.githubusercontent.com/www.dixneuf19.me",
     "slug": "dixneuf19-website",
     "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.20%",
-    "time": 547,
-    "timeDay": 482,
-    "timeWeek": 535,
-    "timeMonth": 505,
-    "timeYear": 547,
-    "dailyMinutesDown": {
-      "2021-01-03": 42,
-      "2020-12-26": 111,
-      "2020-12-13": 35,
-      "2020-12-06": 1065,
-      "2020-12-05": 85,
-      "2020-12-02": 354,
-      "2020-11-26": 20
-    }
+    "uptime": "100.00",
+    "time": 408
   },
   {
     "name": "Radio France Open API",
-    "url": "$SECRET_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "url": "$RADIO_FRANCE_API_URL_WITH_TOKEN",
     "slug": "radio-france-open-api",
     "status": "up",
-    "uptime": "96.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.36%",
-    "time": 1300,
-    "timeDay": 3512,
-    "timeWeek": 1860,
-    "timeMonth": 1490,
-    "timeYear": 1300,
-    "dailyMinutesDown": {
-      "2020-12-07": 81,
-      "2020-11-27": 1226,
-      "2020-11-26": 1440,
-      "2020-11-25": 1440,
-      "2020-11-24": 1440,
-      "2020-11-23": 1440,
-      "2020-11-22": 708
-    }
+    "uptime": "100.00",
+    "time": 1259
   },
   {
     "name": "loudnaround.org",
     "url": "https://loudnaround.org",
-    "icon": "https://favicons.githubusercontent.com/loudnaround.org",
     "slug": "loudnaround-org",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 668,
-    "timeDay": 675,
-    "timeWeek": 647,
-    "timeMonth": 669,
-    "timeYear": 668,
-    "dailyMinutesDown": {}
+    "uptime": "100.00",
+    "time": 668
   },
   {
     "name": "mangococo.fr",
     "url": "https://www.mangococo.fr/",
-    "icon": "https://favicons.githubusercontent.com/www.mangococo.fr",
     "slug": "mangococo-fr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
-    "time": 227,
-    "timeDay": 200,
-    "timeWeek": 210,
-    "timeMonth": 225,
-    "timeYear": 227,
-    "dailyMinutesDown": {
-      "2021-01-12": 29
-    }
+    "uptime": "100.00",
+    "time": 224
   },
   {
     "name": "This Upptime website",
     "url": "https://upptime.dixneuf19.me",
-    "icon": "https://favicons.githubusercontent.com/upptime.dixneuf19.me",
     "slug": "this-upptime-website",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 140,
-    "timeWeek": 143,
-    "timeMonth": 153,
-    "timeYear": 144,
-    "dailyMinutesDown": {}
+    "uptime": "100.00",
+    "time": 147
   }
 ]
