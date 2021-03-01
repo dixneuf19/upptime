@@ -12,8 +12,8 @@
     "url": "$RADIO_FRANCE_API_URL_WITH_TOKEN",
     "slug": "radio-france-open-api",
     "status": "down",
-    "uptime": "99.83",
-    "time": 1179
+    "uptime": "99.82",
+    "time": 1150
   },
   {
     "name": "loudnaround.org",
