@@ -1,6 +1,6 @@
 - url: $RADIO_FRANCE_API_URL_WITH_TOKEN
 - status: down
 - code: 503
-- responseTime: 487
-- lastUpdated: 2021-03-02T07:48:06.742Z
+- responseTime: 419
+- lastUpdated: 2021-03-02T07:57:09.111Z
 - startTime: 2020-08-18T20:16:00.595Z
