@@ -1,7 +1,6 @@
-url: https://www.mangococo.fr/
-status: up
-code: 200
-responseTime: 931
-lastUpdated: 2021-03-04T23:12:58.560Z
-startTime: Tue Aug 18 2020 21:16:52 GMT+0000 (Coordinated Universal Time)
-generator: Upptime <https://github.com/upptime/upptime>
+- url: https://www.mangococo.fr/
+- status: up
+- code: 200
+- responseTime: 248
+- lastUpdated: 2021-03-04T23:19:31.160Z
+- startTime: 2020-08-18T21:16:52.309Z
