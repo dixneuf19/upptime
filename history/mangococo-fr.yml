@@ -1,6 +1,6 @@
 - url: https://www.mangococo.fr/
-- status: up
-- code: 200
-- responseTime: 248
-- lastUpdated: 2021-03-04T23:19:31.160Z
+- status: down
+- code: 502
+- responseTime: 12579
+- lastUpdated: 2021-03-05T22:56:08.076Z
 - startTime: 2020-08-18T21:16:52.309Z
