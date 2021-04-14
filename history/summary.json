@@ -4,16 +4,16 @@
     "url": "https://www.dixneuf19.me",
     "slug": "dixneuf19-website",
     "status": "up",
-    "uptime": "98.96",
+    "uptime": "98.80",
     "time": 254
   },
   {
     "name": "Radio France Open API",
     "url": "$RADIO_FRANCE_API_URL_WITH_TOKEN",
     "slug": "radio-france-open-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 1371
+    "time": 1365
   },
   {
     "name": "loudnaround.org",
