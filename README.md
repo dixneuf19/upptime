@@ -8,7 +8,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-Live status: <!--live status--> **🟩 All systems operational**
+Live status: <!--live status--> **🟨 Partial outage**
 
 ## ⭐ How it works
 
@@ -38,7 +38,7 @@ _This section is updated automatically when the status of any site changes._
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Dixneuf19 website](https://www.dixneuf19.me) | 🟩 Up | [dixneuf19-website.yml](https://github.com/dixneuf19/upptime/commits/master/history/dixneuf19-website.yml) | <img alt="Response time graph" src="./graphs/dixneuf19-website.png" height="20"> 381ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdixneuf19%2Fupptime%2Fmaster%2Fapi%2Fdixneuf19-website%2Fuptime.json)
+| [Dixneuf19 website](https://www.dixneuf19.me) | 🟥 Down | [dixneuf19-website.yml](https://github.com/dixneuf19/upptime/commits/master/history/dixneuf19-website.yml) | <img alt="Response time graph" src="./graphs/dixneuf19-website.png" height="20"> 381ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdixneuf19%2Fupptime%2Fmaster%2Fapi%2Fdixneuf19-website%2Fuptime.json)
 | Radio France Open API | 🟩 Up | [radio-france-open-api.yml](https://github.com/dixneuf19/upptime/commits/master/history/radio-france-open-api.yml) | <img alt="Response time graph" src="./graphs/radio-france-open-api.png" height="20"> 1510ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdixneuf19%2Fupptime%2Fmaster%2Fapi%2Fradio-france-open-api%2Fuptime.json)
 | [loudnaround.org](https://loudnaround.org) | 🟩 Up | [loudnaround-org.yml](https://github.com/dixneuf19/upptime/commits/master/history/loudnaround-org.yml) | <img alt="Response time graph" src="./graphs/loudnaround-org.png" height="20"> 696ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdixneuf19%2Fupptime%2Fmaster%2Fapi%2Floudnaround-org%2Fuptime.json)
 | [mangococo.fr](https://www.mangococo.fr/) | 🟩 Up | [mangococo-fr.yml](https://github.com/dixneuf19/upptime/commits/master/history/mangococo-fr.yml) | <img alt="Response time graph" src="./graphs/mangococo-fr.png" height="20"> 259ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdixneuf19%2Fupptime%2Fmaster%2Fapi%2Fmangococo-fr%2Fuptime.json)
