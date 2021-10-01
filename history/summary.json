@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/www.dixneuf19.me",
     "slug": "dixneuf19-website",
     "status": "up",
-    "uptime": "86.78%",
+    "uptime": "86.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "98.60%",
@@ -104,18 +104,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "radio-france-open-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "98.31%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.49%",
     "uptimeMonth": "93.90%",
     "uptimeYear": "99.15%",
     "time": 1328,
-    "timeDay": 606,
+    "timeDay": 733,
     "timeWeek": 1724,
     "timeMonth": 1383,
     "timeYear": 1328,
     "dailyMinutesDown": {
+      "2021-10-01": 0,
       "2021-09-30": 24,
       "2021-09-29": 78,
       "2021-09-28": 32,
@@ -145,8 +146,7 @@
       "2021-07-30": 41,
       "2021-07-28": 21,
       "2021-07-27": 40,
-      "2021-06-15": 25,
-      "2021-06-14": 21
+      "2021-06-15": 25
     }
   },
   {
