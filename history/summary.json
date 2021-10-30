@@ -6,7 +6,7 @@
     "slug": "dixneuf19-website",
     "status": "up",
     "uptime": "87.12%",
-    "uptimeDay": "90.31%",
+    "uptimeDay": "94.63%",
     "uptimeWeek": "66.19%",
     "uptimeMonth": "92.22%",
     "uptimeYear": "84.57%",
@@ -108,14 +108,14 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "radio-france-open-api",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "86.12%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "87.62%",
     "uptimeWeek": "94.46%",
     "uptimeMonth": "97.13%",
     "uptimeYear": "99.19%",
     "time": 1296,
-    "timeDay": 1371,
+    "timeDay": 1430,
     "timeWeek": 1033,
     "timeMonth": 1068,
     "timeYear": 1296,
@@ -155,7 +155,7 @@
       "2021-08-18": 46,
       "2021-08-16": 48,
       "2021-08-10": 35,
-      "2021-08-09": 244
+      "2021-08-09": 206
     }
   },
   {
