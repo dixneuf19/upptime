@@ -109,15 +109,15 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "radio-france-open-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "68.78%",
+    "uptimeDay": "72.55%",
     "uptimeWeek": "80.01%",
-    "uptimeMonth": "93.08%",
-    "uptimeYear": "99.42%",
+    "uptimeMonth": "93.16%",
+    "uptimeYear": "99.43%",
     "time": 1293,
     "timeDay": 965,
-    "timeWeek": 1272,
+    "timeWeek": 1281,
     "timeMonth": 1187,
     "timeYear": 1293,
     "dailyMinutesDown": {
@@ -139,7 +139,7 @@
       "2021-10-17": 50,
       "2021-10-15": 65,
       "2021-10-14": 134,
-      "2021-10-13": 111
+      "2021-10-13": 75
     }
   },
   {
@@ -193,7 +193,7 @@
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.41%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.46%",
     "time": 162,
     "timeDay": 154,
