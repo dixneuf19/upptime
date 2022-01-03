@@ -105,9 +105,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "radio-france-open-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "74.02%",
+    "uptimeDay": "74.01%",
     "uptimeWeek": "95.82%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "99.37%",
@@ -129,7 +129,7 @@
       "2021-11-02": 371,
       "2021-11-01": 360,
       "2021-10-31": 302,
-      "2021-10-30": 124
+      "2021-10-30": 105
     }
   },
   {
