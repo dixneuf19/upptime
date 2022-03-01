@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.dixneuf19.me",
     "slug": "dixneuf19-website",
     "status": "up",
-    "uptime": "89.49%",
+    "uptime": "89.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.02%",
-    "uptimeYear": "84.25%",
+    "uptimeMonth": "97.35%",
+    "uptimeYear": "84.29%",
     "time": 916,
-    "timeDay": 690,
-    "timeWeek": 657,
-    "timeMonth": 592,
-    "timeYear": 1004,
+    "timeDay": 712,
+    "timeWeek": 672,
+    "timeMonth": 614,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2022-02-19": 589,
       "2022-02-18": 390,
@@ -109,8 +109,7 @@
       "2021-03-21": 1440,
       "2021-03-20": 863,
       "2021-03-07": 1037,
-      "2021-03-06": 33,
-      "2021-03-01": 477
+      "2021-03-06": 33
     }
   },
   {
@@ -125,10 +124,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.49%",
     "time": 1363,
-    "timeDay": 682,
-    "timeWeek": 627,
-    "timeMonth": 609,
-    "timeYear": 1351,
+    "timeDay": 667,
+    "timeWeek": 625,
+    "timeMonth": 619,
+    "timeYear": 1352,
     "dailyMinutesDown": {
       "2022-01-10": 599,
       "2022-01-09": 1386,
@@ -160,11 +159,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 718,
-    "timeDay": 987,
-    "timeWeek": 694,
-    "timeMonth": 695,
-    "timeYear": 728,
+    "time": 719,
+    "timeDay": 1583,
+    "timeWeek": 773,
+    "timeMonth": 728,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2021-06-30": 121
     }
@@ -181,9 +180,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 344,
-    "timeWeek": 260,
-    "timeMonth": 237,
+    "timeDay": 292,
+    "timeWeek": 267,
+    "timeMonth": 238,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2021-03-05": 17
@@ -201,9 +200,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 163,
-    "timeDay": 193,
-    "timeWeek": 164,
-    "timeMonth": 180,
+    "timeDay": 279,
+    "timeWeek": 187,
+    "timeMonth": 162,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2021-10-06": 128,
