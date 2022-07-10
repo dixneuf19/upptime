@@ -4,12 +4,12 @@
     "url": "https://www.dixneuf19.me",
     "icon": "https://favicons.githubusercontent.com/www.dixneuf19.me",
     "slug": "dixneuf19-website",
-    "status": "up",
+    "status": "down",
     "uptime": "92.08%",
-    "uptimeDay": "29.30%",
-    "uptimeWeek": "11.95%",
-    "uptimeMonth": "4.13%",
-    "uptimeYear": "85.01%",
+    "uptimeDay": "32.05%",
+    "uptimeWeek": "12.34%",
+    "uptimeMonth": "4.22%",
+    "uptimeYear": "85.02%",
     "time": 1376,
     "timeDay": 2696,
     "timeWeek": 2843,
@@ -111,8 +111,7 @@
       "2021-07-23": 1411,
       "2021-07-22": 1440,
       "2021-07-21": 1440,
-      "2021-07-20": 115,
-      "2021-07-18": 55
+      "2021-07-20": 115
     }
   },
   {
