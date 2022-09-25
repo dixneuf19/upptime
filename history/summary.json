@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/www.dixneuf19.me",
     "slug": "dixneuf19-website",
     "status": "up",
-    "uptime": "93.04%",
+    "uptime": "93.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "85.50%",
-    "time": 1252,
-    "timeDay": 584,
-    "timeWeek": 654,
-    "timeMonth": 631,
+    "time": 1251,
+    "timeDay": 482,
+    "timeWeek": 616,
+    "timeMonth": 629,
     "timeYear": 1431,
     "dailyMinutesDown": {
       "2022-08-18": 1009,
@@ -107,8 +107,7 @@
       "2021-10-29": 432,
       "2021-10-28": 1440,
       "2021-10-27": 1440,
-      "2021-10-26": 96,
-      "2021-09-25": 25
+      "2021-10-26": 96
     }
   },
   {
@@ -122,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.49%",
-    "time": 1180,
-    "timeDay": 600,
-    "timeWeek": 606,
-    "timeMonth": 638,
-    "timeYear": 1155,
+    "time": 1174,
+    "timeDay": 730,
+    "timeWeek": 625,
+    "timeMonth": 635,
+    "timeYear": 1149,
     "dailyMinutesDown": {
       "2022-03-29": 28,
       "2022-01-10": 599,
@@ -160,9 +159,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 770,
-    "timeDay": 983,
-    "timeWeek": 840,
-    "timeMonth": 863,
+    "timeDay": 668,
+    "timeWeek": 789,
+    "timeMonth": 852,
     "timeYear": 775,
     "dailyMinutesDown": {
       "2022-09-15": 40
@@ -180,9 +179,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 248,
-    "timeDay": 345,
-    "timeWeek": 273,
-    "timeMonth": 285,
+    "timeDay": 220,
+    "timeWeek": 247,
+    "timeMonth": 281,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2022-09-15": 40
@@ -200,9 +199,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.72%",
     "time": 180,
-    "timeDay": 242,
-    "timeWeek": 238,
-    "timeMonth": 238,
+    "timeDay": 163,
+    "timeWeek": 219,
+    "timeMonth": 234,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2022-09-15": 40,
