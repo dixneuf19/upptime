@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dixneuf19.me.ico",
     "slug": "dixneuf19-website",
     "status": "up",
-    "uptime": "93.42%",
+    "uptime": "93.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.99%",
     "uptimeYear": "85.49%",
-    "time": 1249,
-    "timeDay": 454,
-    "timeWeek": 479,
+    "time": 1248,
+    "timeDay": 516,
+    "timeWeek": 497,
     "timeMonth": 568,
     "timeYear": 1404,
     "dailyMinutesDown": {
@@ -120,12 +120,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.58%",
-    "time": 1118,
-    "timeDay": 549,
-    "timeWeek": 546,
-    "timeMonth": 606,
-    "timeYear": 1120,
+    "uptimeYear": "98.65%",
+    "time": 1142,
+    "timeDay": 598,
+    "timeWeek": 575,
+    "timeMonth": 612,
+    "timeYear": 1109,
     "dailyMinutesDown": {
       "2022-03-29": 28,
       "2022-01-10": 599,
@@ -140,8 +140,7 @@
       "2021-11-07": 230,
       "2021-11-06": 230,
       "2021-11-05": 393,
-      "2021-11-04": 236,
-      "2021-11-03": 134
+      "2021-11-04": 236
     }
   },
   {
@@ -156,9 +155,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 789,
-    "timeDay": 819,
-    "timeWeek": 795,
-    "timeMonth": 807,
+    "timeDay": 713,
+    "timeWeek": 804,
+    "timeMonth": 814,
     "timeYear": 788,
     "dailyMinutesDown": {
       "2022-09-15": 40
@@ -176,9 +175,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 249,
-    "timeDay": 240,
-    "timeWeek": 262,
-    "timeMonth": 263,
+    "timeDay": 332,
+    "timeWeek": 283,
+    "timeMonth": 268,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2022-09-15": 40
@@ -196,8 +195,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 189,
-    "timeDay": 168,
-    "timeWeek": 737,
+    "timeDay": 164,
+    "timeWeek": 183,
     "timeMonth": 325,
     "timeYear": 194,
     "dailyMinutesDown": {
