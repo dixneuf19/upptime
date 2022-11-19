@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dixneuf19.me.ico",
     "slug": "dixneuf19-website",
     "status": "up",
-    "uptime": "93.55%",
+    "uptime": "93.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "85.49%",
-    "time": 1250,
-    "timeDay": 710,
-    "timeWeek": 645,
-    "timeMonth": 581,
+    "time": 1249,
+    "timeDay": 645,
+    "timeWeek": 615,
+    "timeMonth": 583,
     "timeYear": 1404,
     "dailyMinutesDown": {
       "2022-10-20": 44,
@@ -106,8 +106,7 @@
       "2022-01-06": 508,
       "2022-01-05": 74,
       "2021-12-24": 21,
-      "2021-12-19": 84,
-      "2021-11-19": 18
+      "2021-12-19": 84
     }
   },
   {
@@ -121,10 +120,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.98%",
-    "time": 1105,
-    "timeDay": 615,
-    "timeWeek": 684,
-    "timeMonth": 673,
+    "time": 1104,
+    "timeDay": 571,
+    "timeWeek": 630,
+    "timeMonth": 665,
     "timeYear": 1006,
     "dailyMinutesDown": {
       "2022-03-29": 28,
@@ -148,11 +147,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 795,
-    "timeDay": 1040,
-    "timeWeek": 1002,
-    "timeMonth": 908,
-    "timeYear": 793,
+    "time": 796,
+    "timeDay": 1012,
+    "timeWeek": 960,
+    "timeMonth": 913,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2022-09-15": 40
     }
@@ -169,10 +168,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 251,
-    "timeDay": 337,
-    "timeWeek": 289,
+    "timeDay": 373,
+    "timeWeek": 282,
     "timeMonth": 296,
-    "timeYear": 251,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2022-09-15": 40
     }
@@ -189,9 +188,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 192,
-    "timeDay": 270,
-    "timeWeek": 288,
-    "timeMonth": 347,
+    "timeDay": 278,
+    "timeWeek": 275,
+    "timeMonth": 348,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2022-09-15": 40
