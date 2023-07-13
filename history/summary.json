@@ -6,8 +6,8 @@
     "slug": "dixneuf19-website",
     "status": "down",
     "uptime": "94.33%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "77.59%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "77.58%",
     "uptimeMonth": "91.14%",
     "uptimeYear": "94.74%",
     "time": 772,
@@ -16,7 +16,7 @@
     "timeMonth": 730,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2023-07-13": 0,
+      "2023-07-13": 1,
       "2023-07-10": 1032,
       "2023-07-09": 1227,
       "2023-06-28": 1169,
@@ -68,7 +68,7 @@
     "timeMonth": 653,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2023-07-13": 50,
+      "2023-07-13": 51,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
