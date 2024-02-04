@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.24%",
     "time": 642,
-    "timeDay": 595,
+    "timeDay": 604,
     "timeWeek": 659,
-    "timeMonth": 653,
+    "timeMonth": 648,
     "timeYear": 668,
     "dailyMinutesDown": {
       "2023-12-29": 558,
@@ -52,18 +52,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radio-france-open-api",
     "status": "down",
-    "uptime": "65.49%",
+    "uptime": "65.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 695,
-    "timeDay": 732,
-    "timeWeek": 1252,
+    "timeDay": 544,
+    "timeWeek": 1251,
     "timeMonth": 793,
-    "timeYear": 689,
+    "timeYear": 688,
     "dailyMinutesDown": {
-      "2024-02-03": 4,
+      "2024-02-04": 5,
+      "2024-02-03": 1440,
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
@@ -426,8 +427,7 @@
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
-      "2023-02-05": 1440,
-      "2023-02-04": 1440
+      "2023-02-05": 1440
     }
   },
   {
@@ -441,11 +441,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 859,
-    "timeDay": 919,
-    "timeWeek": 855,
-    "timeMonth": 858,
-    "timeYear": 855,
+    "time": 858,
+    "timeDay": 627,
+    "timeWeek": 836,
+    "timeMonth": 853,
+    "timeYear": 854,
     "dailyMinutesDown": {}
   },
   {
@@ -458,15 +458,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.88%",
     "time": 272,
-    "timeDay": 157,
-    "timeWeek": 261,
-    "timeMonth": 247,
+    "timeDay": 187,
+    "timeWeek": 254,
+    "timeMonth": 246,
     "timeYear": 272,
-    "dailyMinutesDown": {
-      "2023-02-04": 621
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AJEEA Burkina",
@@ -480,8 +478,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 331,
-    "timeWeek": 265,
+    "timeDay": 279,
+    "timeWeek": 282,
     "timeMonth": 283,
     "timeYear": 296,
     "dailyMinutesDown": {}
@@ -497,11 +495,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 164,
-    "timeWeek": 121,
+    "time": 229,
+    "timeDay": 116,
+    "timeWeek": 117,
     "timeMonth": 193,
-    "timeYear": 229,
+    "timeYear": 228,
     "dailyMinutesDown": {}
   }
 ]
