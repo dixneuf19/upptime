@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.99%",
     "time": 649,
-    "timeDay": 518,
-    "timeWeek": 1199,
-    "timeMonth": 714,
+    "timeDay": 739,
+    "timeWeek": 1241,
+    "timeMonth": 723,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2023-12-29": 558,
@@ -48,18 +48,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radio-france-open-api",
     "status": "down",
-    "uptime": "64.68%",
+    "uptime": "64.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 678,
-    "timeDay": 678,
-    "timeWeek": 605,
-    "timeMonth": 763,
-    "timeYear": 686,
+    "time": 679,
+    "timeDay": 923,
+    "timeWeek": 662,
+    "timeMonth": 773,
+    "timeYear": 687,
     "dailyMinutesDown": {
-      "2024-02-19": 4,
+      "2024-02-20": 4,
+      "2024-02-19": 1440,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
@@ -422,8 +423,7 @@
       "2023-02-24": 1440,
       "2023-02-23": 1440,
       "2023-02-22": 1440,
-      "2023-02-21": 1440,
-      "2023-02-20": 1440
+      "2023-02-21": 1440
     }
   },
   {
@@ -438,10 +438,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 850,
-    "timeDay": 727,
-    "timeWeek": 783,
-    "timeMonth": 821,
-    "timeYear": 854,
+    "timeDay": 1126,
+    "timeWeek": 840,
+    "timeMonth": 831,
+    "timeYear": 855,
     "dailyMinutesDown": {}
   },
   {
@@ -456,9 +456,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 162,
-    "timeWeek": 246,
-    "timeMonth": 244,
+    "timeDay": 356,
+    "timeWeek": 262,
+    "timeMonth": 250,
     "timeYear": 272,
     "dailyMinutesDown": {}
   },
@@ -474,8 +474,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 345,
-    "timeWeek": 315,
+    "timeDay": 269,
+    "timeWeek": 309,
     "timeMonth": 294,
     "timeYear": 297,
     "dailyMinutesDown": {}
@@ -492,10 +492,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 79,
-    "timeWeek": 179,
-    "timeMonth": 195,
-    "timeYear": 229,
+    "timeDay": 270,
+    "timeWeek": 194,
+    "timeMonth": 198,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   }
 ]
