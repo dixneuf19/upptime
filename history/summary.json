@@ -6,17 +6,16 @@
     "slug": "dixneuf19-website",
     "status": "up",
     "uptime": "94.75%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "96.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "96.96%",
     "uptimeYear": "95.66%",
     "time": 648,
     "timeDay": 471,
-    "timeWeek": 622,
+    "timeWeek": 636,
     "timeMonth": 548,
-    "timeYear": 653,
+    "timeYear": 654,
     "dailyMinutesDown": {
-      "2024-05-28": 8,
       "2024-05-24": 84,
       "2024-05-18": 163,
       "2024-05-16": 728,
@@ -67,11 +66,12 @@
     "uptimeYear": "0.00%",
     "time": 679,
     "timeDay": 709,
-    "timeWeek": 661,
+    "timeWeek": 681,
     "timeMonth": 644,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2024-05-28": 1384,
+      "2024-05-29": 5,
+      "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
@@ -434,8 +434,7 @@
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
-      "2023-05-31": 1440,
-      "2023-05-30": 1440
+      "2023-05-31": 1440
     }
   },
   {
@@ -451,9 +450,9 @@
     "uptimeYear": "100.00%",
     "time": 875,
     "timeDay": 1037,
-    "timeWeek": 877,
+    "timeWeek": 889,
     "timeMonth": 842,
-    "timeYear": 884,
+    "timeYear": 885,
     "dailyMinutesDown": {}
   },
   {
@@ -469,9 +468,9 @@
     "uptimeYear": "100.00%",
     "time": 274,
     "timeDay": 338,
-    "timeWeek": 216,
+    "timeWeek": 230,
     "timeMonth": 233,
-    "timeYear": 280,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   },
   {
@@ -487,7 +486,7 @@
     "uptimeYear": "100.00%",
     "time": 297,
     "timeDay": 312,
-    "timeWeek": 284,
+    "timeWeek": 283,
     "timeMonth": 295,
     "timeYear": 300,
     "dailyMinutesDown": {}
@@ -505,7 +504,7 @@
     "uptimeYear": "100.00%",
     "time": 230,
     "timeDay": 447,
-    "timeWeek": 203,
+    "timeWeek": 215,
     "timeMonth": 200,
     "timeYear": 240,
     "dailyMinutesDown": {}
