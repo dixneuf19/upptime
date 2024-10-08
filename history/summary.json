@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dixneuf19.me.ico",
     "slug": "dixneuf19-website",
     "status": "up",
-    "uptime": "95.41%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "95.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.50%",
     "time": 633,
     "timeDay": 769,
@@ -16,7 +16,6 @@
     "timeMonth": 718,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2024-10-07": 8,
       "2024-08-29": 165,
       "2024-08-20": 167,
       "2024-08-18": 43,
@@ -68,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radio-france-open-api",
     "status": "down",
-    "uptime": "54.75%",
+    "uptime": "54.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -79,7 +78,8 @@
     "timeMonth": 794,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2024-10-07": 1403,
+      "2024-10-08": 44,
+      "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
@@ -442,8 +442,7 @@
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
-      "2023-10-10": 1440,
-      "2023-10-09": 1440
+      "2023-10-10": 1440
     }
   },
   {
