@@ -79,7 +79,7 @@
     "timeMonth": 787,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2024-10-11": 700,
+      "2024-10-11": 701,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -507,7 +507,7 @@
     "slug": "this-upptime-website",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
