@@ -5,7 +5,7 @@ repo: upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Dixneuf19 website
-    url: https://www.dixneuf19.me
+    url: https://www.dixneuf19.fr
   - name: Radio France Open API
     url: $SECRET_SITE
   - name: loudnaround.org
@@ -15,11 +15,11 @@ sites:
   - name: AJEEA Burkina
     url: https://www.ajeea-burkina.org
   - name: This Upptime website
-    url: https://upptime.dixneuf19.me
+    url: https://upptime.dixneuf19.fr
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: upptime.dixneuf19.me
+  cname: upptime.dixneuf19.fr
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
