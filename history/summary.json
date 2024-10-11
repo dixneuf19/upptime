@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radio-france-open-api",
     "status": "down",
-    "uptime": "54.62%",
+    "uptime": "54.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -79,7 +79,7 @@
     "timeMonth": 787,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2024-10-11": 701,
+      "2024-10-11": 922,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -505,19 +505,19 @@
     "url": "https://upptime.dixneuf19.fr",
     "icon": "https://icons.duckduckgo.com/ip3/upptime.dixneuf19.fr.ico",
     "slug": "this-upptime-website",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "84.58%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.96%",
     "time": 237,
-    "timeDay": 253,
-    "timeWeek": 265,
-    "timeMonth": 258,
+    "timeDay": 244,
+    "timeWeek": 261,
+    "timeMonth": 257,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-10-11": 0
+      "2024-10-11": 222
     }
   }
 ]
