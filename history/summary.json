@@ -67,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radio-france-open-api",
     "status": "down",
-    "uptime": "53.93%",
+    "uptime": "53.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -78,7 +78,7 @@
     "timeMonth": 691,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2024-10-31": 5,
+      "2024-10-31": 18,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
