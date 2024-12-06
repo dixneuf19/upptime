@@ -4,9 +4,9 @@
     "url": "https://www.dixneuf19.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.dixneuf19.fr.ico",
     "slug": "dixneuf19-website",
-    "status": "up",
+    "status": "down",
     "uptime": "95.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "89.87%",
     "uptimeMonth": "96.43%",
     "uptimeYear": "97.15%",
@@ -16,6 +16,7 @@
     "timeMonth": 928,
     "timeYear": 635,
     "dailyMinutesDown": {
+      "2024-12-06": 0,
       "2024-12-03": 55,
       "2024-12-02": 531,
       "2024-12-01": 435,
@@ -82,7 +83,7 @@
     "timeMonth": 717,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2024-12-06": 6,
+      "2024-12-06": 140,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
