@@ -73,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radio-france-open-api",
     "status": "down",
-    "uptime": "49.92%",
+    "uptime": "49.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -84,7 +84,7 @@
     "timeMonth": 680,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2025-03-03": 6,
+      "2025-03-03": 1025,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -456,9 +456,9 @@
     "url": "https://loudnaround.org",
     "icon": "https://icons.duckduckgo.com/ip3/loudnaround.org.ico",
     "slug": "loudnaround-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -467,7 +467,9 @@
     "timeWeek": 802,
     "timeMonth": 910,
     "timeYear": 935,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   },
   {
     "name": "mangococo.fr",
