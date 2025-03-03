@@ -84,7 +84,7 @@
     "timeMonth": 680,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2025-03-03": 1090,
+      "2025-03-03": 1118,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -456,19 +456,19 @@
     "url": "https://loudnaround.org",
     "icon": "https://icons.duckduckgo.com/ip3/loudnaround.org.ico",
     "slug": "loudnaround-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 903,
-    "timeDay": 861,
-    "timeWeek": 810,
-    "timeMonth": 909,
-    "timeYear": 935,
+    "timeDay": 840,
+    "timeWeek": 808,
+    "timeMonth": 905,
+    "timeYear": 934,
     "dailyMinutesDown": {
-      "2025-03-03": 0
+      "2025-03-03": 28
     }
   },
   {
