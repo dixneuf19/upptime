@@ -8,13 +8,13 @@
     "uptime": "97.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.60%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "98.49%",
-    "time": 647,
-    "timeDay": 562,
-    "timeWeek": 642,
-    "timeMonth": 651,
-    "timeYear": 654,
+    "time": 644,
+    "timeDay": 700,
+    "timeWeek": 618,
+    "timeMonth": 649,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2025-04-17": 58,
       "2025-04-09": 17,
@@ -58,8 +58,7 @@
       "2024-05-24": 84,
       "2024-05-18": 163,
       "2024-05-16": 728,
-      "2024-05-15": 244,
-      "2024-05-01": 111
+      "2024-05-15": 244
     }
   },
   {
@@ -68,18 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radio-france-open-api",
     "status": "down",
-    "uptime": "48.23%",
+    "uptime": "48.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 697,
-    "timeDay": 544,
-    "timeWeek": 758,
-    "timeMonth": 739,
+    "timeDay": 671,
+    "timeWeek": 723,
+    "timeMonth": 737,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2025-04-30": 6,
+      "2025-05-01": 7,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -442,8 +442,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -458,9 +457,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 922,
-    "timeDay": 903,
-    "timeWeek": 1024,
-    "timeMonth": 989,
+    "timeDay": 888,
+    "timeWeek": 993,
+    "timeMonth": 993,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2025-03-03": 28
@@ -477,11 +476,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 269,
-    "timeWeek": 244,
-    "timeMonth": 278,
-    "timeYear": 268,
+    "time": 274,
+    "timeDay": 264,
+    "timeWeek": 260,
+    "timeMonth": 275,
+    "timeYear": 267,
     "dailyMinutesDown": {}
   },
   {
@@ -495,10 +494,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 412,
-    "timeWeek": 354,
-    "timeMonth": 349,
+    "time": 325,
+    "timeDay": 349,
+    "timeWeek": 346,
+    "timeMonth": 353,
     "timeYear": 332,
     "dailyMinutesDown": {}
   },
@@ -514,9 +513,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 237,
-    "timeDay": 172,
-    "timeWeek": 261,
-    "timeMonth": 268,
+    "timeDay": 208,
+    "timeWeek": 240,
+    "timeMonth": 260,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2024-12-02": 531,
