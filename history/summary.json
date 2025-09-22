@@ -60,7 +60,7 @@
     "timeMonth": 733,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2025-09-22": 713,
+      "2025-09-22": 726,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -471,19 +471,19 @@
     "url": "https://www.ajeea-burkina.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.ajeea-burkina.org.ico",
     "slug": "ajeea-burkina",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 343,
-    "timeDay": 450,
-    "timeWeek": 396,
-    "timeMonth": 375,
+    "timeDay": 409,
+    "timeWeek": 388,
+    "timeMonth": 373,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2025-09-22": 0
+      "2025-09-22": 13
     }
   },
   {
