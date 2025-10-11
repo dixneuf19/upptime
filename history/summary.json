@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.38%",
     "time": 749,
-    "timeDay": 481,
-    "timeWeek": 1127,
-    "timeMonth": 797,
-    "timeYear": 753,
+    "timeDay": 514,
+    "timeWeek": 1120,
+    "timeMonth": 793,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2025-10-02": 32,
       "2025-09-24": 75,
@@ -50,18 +50,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radio-france-open-api",
     "status": "down",
-    "uptime": "44.05%",
+    "uptime": "44.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 716,
     "timeDay": 627,
-    "timeWeek": 642,
-    "timeMonth": 709,
+    "timeWeek": 623,
+    "timeMonth": 707,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2025-10-10": 6,
+      "2025-10-11": 5,
+      "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -424,8 +425,7 @@
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
-      "2024-10-12": 1440,
-      "2024-10-11": 1440
+      "2024-10-12": 1440
     }
   },
   {
@@ -439,11 +439,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 948,
-    "timeDay": 801,
-    "timeWeek": 794,
-    "timeMonth": 923,
-    "timeYear": 962,
+    "time": 949,
+    "timeDay": 874,
+    "timeWeek": 801,
+    "timeMonth": 922,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2025-09-08": 36,
       "2025-03-03": 28
@@ -461,9 +461,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 88,
-    "timeWeek": 143,
-    "timeMonth": 221,
+    "timeDay": 201,
+    "timeWeek": 154,
+    "timeMonth": 220,
     "timeYear": 275,
     "dailyMinutesDown": {}
   },
@@ -479,10 +479,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 316,
-    "timeWeek": 324,
-    "timeMonth": 359,
-    "timeYear": 350,
+    "timeDay": 327,
+    "timeWeek": 319,
+    "timeMonth": 358,
+    "timeYear": 349,
     "dailyMinutesDown": {}
   },
   {
@@ -497,14 +497,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 251,
-    "timeDay": 261,
-    "timeWeek": 213,
-    "timeMonth": 245,
+    "timeDay": 271,
+    "timeWeek": 212,
+    "timeMonth": 248,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2024-12-02": 531,
-      "2024-12-01": 434,
-      "2024-10-11": 222
+      "2024-12-01": 434
     }
   }
 ]
