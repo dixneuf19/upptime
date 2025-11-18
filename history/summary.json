@@ -62,7 +62,7 @@
     "timeMonth": 739,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2025-11-18": 696,
+      "2025-11-18": 705,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -456,19 +456,19 @@
     "url": "https://www.mangococo.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mangococo.fr.ico",
     "slug": "mangococo-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 205,
-    "timeWeek": 237,
-    "timeMonth": 243,
-    "timeYear": 273,
+    "timeDay": 320,
+    "timeWeek": 272,
+    "timeMonth": 252,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 9
     }
   },
   {
