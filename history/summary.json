@@ -4,16 +4,16 @@
     "url": "https://www.dixneuf19.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.dixneuf19.fr.ico",
     "slug": "dixneuf19-website",
-    "status": "down",
+    "status": "up",
     "uptime": "92.55%",
-    "uptimeDay": "93.29%",
+    "uptimeDay": "89.73%",
     "uptimeWeek": "60.13%",
     "uptimeMonth": "11.93%",
-    "uptimeYear": "64.16%",
+    "uptimeYear": "64.14%",
     "time": 749,
-    "timeDay": 445,
-    "timeWeek": 532,
-    "timeMonth": 532,
+    "timeDay": 517,
+    "timeWeek": 544,
+    "timeMonth": 544,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2025-08-28": 173,
@@ -163,7 +163,7 @@
       "2026-04-06": 1440,
       "2026-04-05": 257,
       "2026-08-16": 96,
-      "2026-08-17": 0
+      "2026-08-17": 148
     }
   },
   {
@@ -183,7 +183,7 @@
     "timeMonth": 529,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2026-08-17": 1148,
+      "2026-08-17": 1296,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
