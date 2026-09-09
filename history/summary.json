@@ -4,17 +4,17 @@
     "url": "https://www.dixneuf19.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.dixneuf19.fr.ico",
     "slug": "dixneuf19-website",
-    "status": "up",
-    "uptime": "92.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "85.83%",
-    "uptimeMonth": "81.61%",
-    "uptimeYear": "63.91%",
+    "status": "down",
+    "uptime": "92.59%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "85.82%",
+    "uptimeMonth": "83.98%",
+    "uptimeYear": "63.92%",
     "time": 744,
     "timeDay": 630,
     "timeWeek": 617,
     "timeMonth": 582,
-    "timeYear": 722,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2025-09-24": 75,
       "2025-10-02": 32,
@@ -160,7 +160,8 @@
       "2026-08-16": 96,
       "2026-08-17": 148,
       "2026-09-05": 814,
-      "2026-09-04": 615
+      "2026-09-04": 615,
+      "2026-09-09": 0
     }
   },
   {
@@ -169,7 +170,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radio-france-open-api",
     "status": "down",
-    "uptime": "37.40%",
+    "uptime": "37.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -180,7 +181,7 @@
     "timeMonth": 500,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2026-09-09": 126,
+      "2026-09-09": 1165,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
